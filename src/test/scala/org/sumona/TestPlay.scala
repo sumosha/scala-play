@@ -7,7 +7,7 @@ import scala.util.{Failure, Try}
 /**
   * Created by uroutsu on 11/7/16.
   */
-class Play extends FlatSpec with Matchers {
+class TestPlay extends FlatSpec with Matchers {
 
   val messages_to_test = List("a","b","c")
 

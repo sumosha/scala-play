@@ -1,6 +1,6 @@
 package org.sumona
 
-import scala.util.{Failure, Success, Try}
+import scala.util.{Failure, Try}
 
 //TODO: how do abstract out the cartesian product of parsers and errorhandlers to create a nice, fluent syntax like new UserAssessmentResultParser with JsonParsing with XYZErrorHandler
 
